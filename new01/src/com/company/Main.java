@@ -10,8 +10,8 @@ public class Main {
 //            Main04.main4();
 //            Main05.main5();
 //            Main06.main06();
-                RandomArrayGenerator.generate();
-
+ //               RandomArrayGenerator.generate();
+                Main08.main8();
 
         }
 }
